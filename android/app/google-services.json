@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417612639957",
+    "project_id": "ping-chat-d575a",
+    "storage_bucket": "ping-chat-d575a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417612639957:android:00f0091256c5e235de3c5c",
+        "android_client_info": {
+          "package_name": "com.rizfirsy.ping.ping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmG3aKKzrgaNH1tUgjWvVKl0e1cy140Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
