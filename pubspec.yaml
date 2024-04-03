@@ -37,10 +37,22 @@ dependencies:
   cupertino_icons: ^1.0.6
   firebase_core: ^2.27.2
   firebase_auth: ^4.18.0
+  firebase_storage: ^11.6.11
+  image_picker: ^1.0.7
+  cloud_firestore: ^4.15.10
+  firebase_messaging: ^14.8.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+#app icon
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: lib/assets/images/ping_app_icon.png
+  min_sdk_android: 21 # android min sdk min:16, default 21
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
